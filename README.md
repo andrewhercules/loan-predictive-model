@@ -1,0 +1,1 @@
+Loan Predictive Model is based on the [Complete Tutorial to Learn Data Science with Python from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) written by the Analytics Vidhya team.
